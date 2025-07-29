@@ -22,7 +22,7 @@
 まず必要なライブラリをインストールします。
 
 ```python
-pip install fastmcp yfinance pandas
+pip install fastmcp pandas
 ```
 
 次に、Stooqから株価情報を取得するMCP Serverを作成します。下記コードをmcp_server.pyとして保存します。
